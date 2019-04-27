@@ -7,12 +7,12 @@ __To generate *.ko file for install__
 
 **To install the module, type**
 
-`sudo insmod simple_firewall.ko`
+`sudo insmod firewall_ip.ko`
 
 
 **To remove the module, type:**
 
-`sudo rmmod simple_firewall`
+`sudo rmmod firewall_ip`
 
 
 **To verify the module is actually loaded or unloaded, type:**
